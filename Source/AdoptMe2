@@ -10,7 +10,7 @@ OrionLib:MakeNotification({
 --[[
 
 ]]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Goat-Hub103/FreeVersion/main/Source/BallingScript"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Goat-Hub103/FreeVersion/main/AdoptMe"))()
 --[[
 ]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JulHubz/JulHub/main/JulHub"))()
